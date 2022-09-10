@@ -1,0 +1,1 @@
+its just a simple html site to a university, with index page, contact, and who we are, is been whriten log time ago but i cant put this on github only now
